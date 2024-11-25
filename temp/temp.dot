@@ -1,0 +1,4 @@
+digraph {
+node [shape=rect,fontname="Courier"];
+0[label="0x0\l--------\l$m = 0x80\lassert(0 == msg.value)\lcodecopy(0x0, 0x20, 0x17e)\lreturn(0x0, 0x17e)\l"];
+}
